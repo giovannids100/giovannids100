@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am passionate about cybersecurity and currently 
 - 🎓 **University of Naples Federico II**  
   [![Unina](https://upload.wikimedia.org/wikipedia/it/1/1b/Universit%C3%A0_degli_Studi_di_Napoli_Federico_II_Logo.svg)](https://www.unina.it/)
   - Master's in **Computer Engineering - Cyber Security**
-  - Focus on cybersecurity, cryptography, penetration testing, and forensics
+  - Focus on cybersecurity, cloud, penetration testing, and secure programming
 
 - 🛡 **Cyber Hackademy UNINA**  
   [![Cyber Hackademy](https://cyberhackademy.unina.it/wp-content/uploads/2023/07/logo-cyberhackademy.png)](https://cyberhackademy.unina.it/)
