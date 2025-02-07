@@ -32,4 +32,12 @@ Welcome to my GitHub profile! I am passionate about cybersecurity and currently 
 
 ---
 
+### 🏆 GitHub Stats & Trophies
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giovanni&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni&layout=compact&theme=dark)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Giovanni&theme=darkhub&margin-w=15)
+
 ![Cyber Security](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)
