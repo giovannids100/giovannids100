@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Giovanni!
 
-<!--
-**giovannids100/giovannids100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am passionate about cybersecurity and currently a master's student in **Computer Engineering - Cyber Security** at the University of Naples Federico II. Additionally, I attend the **Cyber Hackademy UNINA**, an ethical hacking academy in collaboration with Accenture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- 🎓 **University of Naples Federico II**  
+  [![Unina](https://upload.wikimedia.org/wikipedia/it/1/1b/Universit%C3%A0_degli_Studi_di_Napoli_Federico_II_Logo.svg)](https://www.unina.it/)
+  - Master's in **Computer Engineering - Cyber Security**
+  - Focus on cybersecurity, cryptography, penetration testing, and forensics
+
+- 🛡 **Cyber Hackademy UNINA**  
+  [![Cyber Hackademy](https://cyberhackademy.unina.it/wp-content/uploads/2023/07/logo-cyberhackademy.png)](https://cyberhackademy.unina.it/)
+  - Advanced program in cybersecurity & ethical hacking
+  - In collaboration with **Accenture Security**
+
+---
+
+### 🛠 Skills
+- Cybersecurity & Penetration Testing 🔐
+- Machine Learning & AI 🤖
+- Programming (Python, C, Bash, java, SQL) 💻
+- Network Security & Ethical Hacking 🕵️‍♂️
+
+---
+
+### 📫 Contact Me
+- **GitHub**: [github.com/Giovanni](https://github.com/Giovanni)
+- **LinkedIn**: [linkedin.com/in/giovanni](https://www.linkedin.com/in/giovanni-di-stazio-4a84b92a0/)
+- **Email**: [giovannids100@gmail.com](mailto:giovannids100@gmail.com)
+
+---
+
+![Cyber Security](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)
