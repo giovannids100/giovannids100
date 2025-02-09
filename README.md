@@ -40,4 +40,4 @@ Welcome to my GitHub profile! I am passionate about cybersecurity and currently 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Giovanni&theme=darkhub&margin-w=15)
 
-![Cyber Security](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)
+![Cyber Security]([https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif](https://itch.io/jam/picocad-jam-19/rate/1137060))
