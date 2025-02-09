@@ -5,13 +5,13 @@ Welcome to my GitHub profile! I am passionate about cybersecurity and currently 
 ---
 
 ### 🎓 Education
-- 🎓 **University of Naples Federico II**  
  ![Logo-UNINA](https://github.com/user-attachments/assets/9e6513b5-8391-4384-8b58-1dacb3348b47)
+ - 🎓 **University of Naples Federico II**  
   - Master's in **Computer Engineering - Cyber Security**
   - Focus on cybersecurity, cloud, penetration testing, and secure programming
 
-- 🛡 **Cyber Hackademy UNINA**  
 ![Accenture Cyber HackAdemy, aperte le iscrizioni](https://github.com/user-attachments/assets/e70b0f7e-7ed4-474c-bd52-9c95d7869587)
+- 🛡 **Cyber Hackademy UNINA**  
   - Advanced program in cybersecurity & ethical hacking
   - In collaboration with **Accenture Security**
 
