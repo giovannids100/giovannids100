@@ -35,11 +35,11 @@ Welcome to my GitHub profile! I am passionate about cybersecurity and currently 
 
 ### 🏆 GitHub Stats & Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giovanni&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannids100&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannids100&layout=compact&theme=dark)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Giovanni&theme=darkhub&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giovannids100&theme=darkhub&margin-w=15)
 
                                                                                                                         
                                                                    :\c![!?}{r%i>/_.                                     
