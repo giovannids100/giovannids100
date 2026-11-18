@@ -1,34 +1,54 @@
 ## 👋 Hi, I'm Giovanni!
 
-Welcome to my GitHub profile! I am passionate about cybersecurity and currently a master's student in **Computer Engineering - Cyber Security** at the University of Naples Federico II. Additionally, I attend the **Cyber Hackademy UNINA**, an ethical hacking academy in collaboration with Accenture.
+Welcome to my GitHub profile! I'm a **Security Transformation Analyst at Accenture Technologies** and a master's student in **Computer Engineering - Cyber Security** at the University of Naples Federico II. I'm also an alumnus of the **Cyber Hackademy UNINA**, an ethical hacking academy run in collaboration with Accenture.
+
+I work on email security, data protection and threat deception for enterprise clients, and I'm always tinkering with something new in my homelab.
 
 ![w41bMo](https://github.com/user-attachments/assets/864a9476-d324-4c65-bf86-936a536c4bc1)
+---
+
+### 💼 Experience
+- 🛡 **Accenture Technologies** · *Security Transformation Analyst* (2026 - present)
+  - Led a European email migration: **600+ applications** migrated and **~90 domains** secured with SPF, DKIM and DMARC
+  - Designed a threat deception strategy (decoys and honeypots) with **FortiDeceptor**
+  - Implemented a 4-level sensitivity label taxonomy in **Microsoft Purview**
+  - Planned a phishing simulation campaign for **~2,000 users** with **Microsoft Defender Attack Simulation Training**
+  - Defined HR data classification and protection policies aligned with **GDPR** and **NIS2**
+
 ---
 
 ### 🎓 Education
  ![Logo-UNINA](https://github.com/user-attachments/assets/9e6513b5-8391-4384-8b58-1dacb3348b47)
  - 🎓 **University of Naples Federico II**  
-  - Master's in **Computer Engineering - Cyber Security**
-  - Focus on cybersecurity, cloud, penetration testing, and secure programming
+  - Master's in **Computer Engineering - Cyber Security** (in progress)
+  - Bachelor's in **Computer Engineering**, thesis on SPID-based authentication for web services
+  - Erasmus semester at **Paderborn University** (Germany)
 
 ![Accenture Cyber HackAdemy, aperte le iscrizioni](https://github.com/user-attachments/assets/e70b0f7e-7ed4-474c-bd52-9c95d7869587)
-- 🛡 **Cyber Hackademy UNINA**  
-  - Advanced program in cybersecurity & ethical hacking
+- 🛡 **Cyber Hackademy UNINA** (Jan - Jul 2025)  
+  - 6-month advanced program in cybersecurity, networking, ethical hacking and LLMs
   - In collaboration with **Accenture Security**
 
 ---
 
 ### 🛠 Skills
-- Cybersecurity & Penetration Testing 🔐
-- Machine Learning & AI 🤖
-- Programming (Python, C, Bash, java, SQL) 💻
-- Network Security & Ethical Hacking 🕵️‍♂️
+- **Email Security** – migrations, SPF, DKIM, DMARC 📧
+- **Microsoft Security** – Defender for Office 365, Purview 🔐
+- **Threat Deception** – FortiDeceptor, honeypots 🍯
+- **Security Infrastructure** – SIEM, SOAR 🛰️
+- **Data Governance** – data classification, GDPR, NIS2 📜
+- **Ethical Hacking & Penetration Testing** 🕵️‍♂️
+- **Networking, Linux & Containers** – Docker 🐧🐳
+- **Agentic AI & Data Analysis** 🤖
+- **Programming** – Python, C, Bash, Java, SQL 💻
+- **Homelabbing** 🏠
 
 ---
 
 ### 📫 Contact Me
-- **GitHub**: [github.com/Giovanni](https://github.com/Giovanni)
-- **LinkedIn**: [linkedin.com/in/giovanni](https://www.linkedin.com/in/giovanni-di-stazio-4a84b92a0/)
+- **Website**: [giovannids100.github.io](https://giovannids100.github.io/)
+- **GitHub**: [github.com/giovannids100](https://github.com/giovannids100)
+- **LinkedIn**: [linkedin.com/in/giovanni-di-stazio](https://www.linkedin.com/in/giovanni-di-stazio-4a84b92a0/)
 - **Email**: [giovannids100@gmail.com](mailto:giovannids100@gmail.com)
 
 ---
