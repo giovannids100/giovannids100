@@ -8,6 +8,7 @@ I work on email security, data protection and threat deception for enterprise cl
 ---
 
 ### 💼 Experience
+![Logo Accenture](https://media.licdn.com/dms/image/v2/C4E22AQFb6r3sxy9F5Q/feedshare-shrink_800/feedshare-shrink_800/0/1646302133955?e=2147483647&v=beta&t=V3R3aA0Z4BR9tBfXFxEl-r6KOjitbch9eVeaJaGjLJA)
 - 🛡 **Accenture Technologies** · *Security Transformation Analyst* (2026 - present)
   - Led a European email migration: **600+ applications** migrated and **~90 domains** secured with SPF, DKIM and DMARC
   - Designed a threat deception strategy (decoys and honeypots) with **FortiDeceptor**
